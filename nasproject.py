@@ -3,8 +3,8 @@
 import paramiko
 import subprocess, shlex 
 
-server = "192.168.0.37" # Credentials
-port = 22 # "TCP port found in the SSH options"
+server = input("server address:\t")
+port = input("port no.:\t")
 username = input("username:\t")
 password = input("pass:\t")
 
