@@ -1,4 +1,4 @@
-# bottleneckcheck
+# bottleneckcheck🔌
 
 An app that tells you if you are limited by a NAS server, or your computer.
 
